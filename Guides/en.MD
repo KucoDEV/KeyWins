@@ -1,5 +1,5 @@
 # How to install KeyWins
-- Download extension.zip
+- Download <a href="https://github.com/KucoDEV/KeyWins/releases/tag/1.0">the latest version ZIP</a>
 - Extract
 - Open your browser extension tab
 - Enable Developer Mode
