@@ -11,4 +11,4 @@
 - And press **"Rejoindre"**
 <br>Now you just have to wait, you will enter the next free space battle
 
-* Once redirected, you must press "Join Battle" to be in the battle
+### Once redirected, you must press "Join Battle" to be in the battle
