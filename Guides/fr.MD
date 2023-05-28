@@ -12,4 +12,4 @@
 <br>
 Il ne vous reste plus qu'à attendre, vous entrerez dans la prochaine bataille de case gratuite
 
-###Une fois redirigé, vous devez appuyer sur "Rejoindre la bataille" pour être dans la bataille
+### Une fois redirigé, vous devez appuyer sur "Rejoindre la bataille" pour être dans la bataille
