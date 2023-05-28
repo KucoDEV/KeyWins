@@ -10,7 +10,6 @@
 - Click on the extension logo
 - And press **"Rejoindre"**
 <br>
-<br>
 Now you just have to wait, you will enter the next free space battle
 
 ### Once redirected, you must press "Join Battle" to be in the battle
