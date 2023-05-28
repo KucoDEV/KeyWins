@@ -1,0 +1,32 @@
+{
+    "name": "KeyWins",
+    "version": "1.0",
+    "manifest_version": 3,
+    "author": "Kuco",
+    "description": "Cette extension rejoint automatiquement les cases battles gratuites de Key-Drop.com",
+    "permissions": [
+        "scripting",
+        "activeTab",
+        "tabs",
+        "storage"
+    ],
+    "host_permissions": [
+        "*://key-drop.com/*"
+    ],
+    "action": {
+        "default_title": "KeyWins",
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "img/16.png",
+        "48": "img/48.png",
+        "128": "img/128.png"
+    },
+    "options_ui":
+    {
+        "open_in_tab": true,
+        "page": "options.html"
+    }
+    
+
+}
