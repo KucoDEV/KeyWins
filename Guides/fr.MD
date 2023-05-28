@@ -6,7 +6,7 @@
 - Sélectionnez ensuite le bouton **"Charger l'extension non empaquetée"** et sélectionnez le dossier extension
 
 # Comment utiliser KeyWins
-- Aller sur <a href="https://key-drop.com/en/case-battle/list">Key-Drop.com</a>
+- Aller sur <a href="https://key-drop.com/fr/case-battle/list">Key-Drop.com</a>
 - Cliquez sur le logo de l'extension
 - Et appuyez sur **"Rejoindre"**
 <br>
