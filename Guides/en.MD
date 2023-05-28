@@ -9,6 +9,6 @@
 - Go to <a href="https://key-drop.com/en/case-battle/list">Key-Drop.com</a>
 - Click on the extension logo
 - And press **"Rejoindre"**
-You now just have to wait, you will enterin the next free case battle
+<br>Now you just have to wait, you will enter the next free space battle
 
 * Once redirected, you must press "Join Battle" to be in the battle
