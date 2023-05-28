@@ -11,4 +11,4 @@
 - And press **"Rejoindre"**
 You now just have to wait, you will enterin the next free case battle
 
-* You have to press "Join the battle" to be in the battle
+* Once redirected, you must press "Join Battle" to be in the battle
