@@ -1,4 +1,4 @@
-<h1>KeyWins</h1>
+<h1 align="center">KeyWins</h1>
 An extension for your browser to join free cases battles on Key-Drop.com
 
 ## Guides
