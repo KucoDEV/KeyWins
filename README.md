@@ -2,6 +2,6 @@
 <p align="center">An extension for your browser to join free cases battles on Key-Drop.com</p>
 
 <h1 align="center">Guides</h1>
-<p href="https://github.com/KucoDEV/KeyWins/blob/main/Guides/fr.MD" align="center">Français</p>
+- <a href="https://github.com/KucoDEV/KeyWins/blob/main/Guides/fr.MD" align="center">Français</a>
 <br>
-<p href="https://github.com/KucoDEV/KeyWins/blob/main/Guides/en.MD" align="center">English</p>
+- <a href="https://github.com/KucoDEV/KeyWins/blob/main/Guides/en.MD" align="center">English</a>
