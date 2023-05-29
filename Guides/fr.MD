@@ -1,5 +1,5 @@
 # Comment installer KeyWins
-- Télécharger <a href="https://github.com/KucoDEV/KeyWins/releases/tag/1.0">la dernière version ZIP</a>
+- Télécharger <a href="https://github.com/KucoDEV/KeyWins/releases/">la dernière version ZIP</a>
 - Extraire
 - Ouvrez l'onglet d'extension de votre navigateur
 - Activer le mode développeur
