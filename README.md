@@ -1,65 +1,50 @@
-<div align="center">
+# 🔑 KeyWins - Extension Navigateur
 
-<a href="https://gowebly.org" target="_blank" title="Go to the Gowebly CLI website"><img width="196px" alt="gowebly logo" src="https://raw.githubusercontent.com/gowebly/.github/main/images/gowebly-logo.svg"></a>
+## 📜 Description
 
-<a name="readme-top"></a>
+**KeyWins** est une extension de navigateur conçue pour automatiser la participation aux **cases battles gratuites** sur le site **Key-Drop.com**. Elle inclut une interface utilisateur intuitive pour configurer les préférences et gérer l'automatisation.
 
-# The KeyWins
+> ⚠️ **Avertissement :** Ce projet n'a pas été testé depuis plus de 2 ans. Son bon fonctionnement n'est pas garanti.
 
-A next-generation browser extension
+## 🌟 Fonctionnalités
 
-**&searr;&nbsp;&nbsp;The official documentation&nbsp;&nbsp;&swarr;**
+- 🚀 Automatisation des participations aux cases battles gratuites.
+- 🔧 Interface d'options pour sélectionner les cases à rejoindre.
+- 🌐 Compatibilité avec le site **Key-Drop.com**.
 
-[English](https://github.com/KucoDEV/KeyWins/blob/main/README.md)
+## 📂 Structure du Projet
 
-**&searr;&nbsp;&nbsp;Share the project's link to your friends&nbsp;&nbsp;&swarr;**
+```
+KeyWins/
+├── manifest.json         # Déclaration de l'extension
+├── options.html          # Page des paramètres utilisateur
+├── optionstyle.css       # Styles pour la page d'options
+├── popup.html            # Interface principale de l'extension
+├── popup.js              # Scripts de la popup
+├── style.css             # Styles de la popup
+├── settings.js           # Gestion des paramètres
+```
 
-[![Share on X][x_share_img]][x_share_url]
-[![Share on Telegram][telegram_share_img]][telegram_share_url]
-[![Share on Reddit][reddit_share_img]][reddit_share_url]
+## 🚀 Installation
 
-</div>
+1. Clonez ce repository ou téléchargez les fichiers.
+2. Ouvrez **Google Chrome** ou un navigateur compatible.
+3. Accédez à `chrome://extensions/`.
+4. Activez le **Mode développeur**.
+5. Cliquez sur **Charger l'extension non empaquetée** et sélectionnez le dossier contenant les fichiers du projet.
+6. L'extension **KeyWins** apparaîtra dans votre barre d'outils.
 
-## ✨ Features
+## 🔧 Utilisation
 
-- 100% **free** and **open source**!
-- For **any** developer's level of knowledge and technical expertise, as the intelligent tool does most of the routine project setup for you, creates an understandable structure, and prepares code for use and deployment in production.
-- Enables you to **start a new html project faster**.
-- Ready-to-use auth system that can run in **any environment**.
+1. Cliquez sur l'icône de l'extension pour ouvrir la popup.
+2. Utilisez le bouton **Rejoindre** pour activer l'automatisation.
+3. Configurez vos préférences dans la section **Options**.
 
-## ⚡️ Quick start
+## 🛠️ Prérequis
 
-First, [download](https://www.python.org/downloads/) and install **Python**. Version `3.10` (or higher) is required for the code generated.
+- Navigateur compatible avec les extensions (Chrome, Edge).
+- Connexion Internet stable.
 
-Now, you can use the **Auth** without installation. Just run the python file!
+## 📜 Licence
 
-That's it! 🔥 A wonderful web application to help you create TKinter window.
-
-<div align="right">
-
-[&nwarr; Back to top](#readme-top)
-
-</div>
-
-## 🌟 Stars
-
-<picture>
-  <source srcset="https://api.star-history.com/svg?repos=KucoDEV/KeyWins&type=Date&theme=dark"/>
-  <img width="100%" alt="The Gowebly CLI star history chart" src="https://api.star-history.com/svg?repos=KucoDEV/KeyWins&type=Date"/>
-</picture>
-
-## ⚠ License
-
-[`The KeyWins`][repo_url] is free and open-source software licensed under the [Apache 2.0 License].
-
-<!-- Repository links -->
-[repo_url]: https://github.com/KucoDEV/KeyWins
-
-<!-- Social links -->
-[x_share_url]: https://x.com
-[telegram_share_url]: https://t.me
-[reddit_share_url]: https://www.reddit.com
-[x_share_img]: https://img.shields.io/badge/x_(twitter)-black?style=for-the-badge&logo=x
-[telegram_share_img]: https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram
-[whatsapp_share_img]: https://img.shields.io/badge/whatsapp-black?style=for-the-badge&logo=whatsapp
-[reddit_share_img]: https://img.shields.io/badge/reddit-black?style=for-the-badge&logo=reddit
+Ce projet est sous licence MIT. Vous êtes libre de le modifier et de le redistribuer.
