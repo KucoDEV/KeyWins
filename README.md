@@ -1,50 +1,50 @@
-# 🔑 KeyWins - Extension Navigateur
+# 🔑 KeyWins - Browser Extension
 
 ## 📜 Description
 
-**KeyWins** est une extension de navigateur conçue pour automatiser la participation aux **cases battles gratuites** sur le site **Key-Drop.com**. Elle inclut une interface utilisateur intuitive pour configurer les préférences et gérer l'automatisation.
+**KeyWins** is a browser extension designed to automate participation in **free case battles** on **Key-Drop.com**. It includes an intuitive user interface for configuring preferences and managing automation.
 
-> ⚠️ **Avertissement :** Ce projet n'a pas été testé depuis plus de 2 ans. Son bon fonctionnement n'est pas garanti.
+> ⚠️ **Warning:** This project has not been tested for over 2 years. Its proper functionality is not guaranteed.
 
-## 🌟 Fonctionnalités
+## 🌟 Features
 
-- 🚀 Automatisation des participations aux cases battles gratuites.
-- 🔧 Interface d'options pour sélectionner les cases à rejoindre.
-- 🌐 Compatibilité avec le site **Key-Drop.com**.
+- 🚀 Automation of participation in free case battles.
+- 🔧 Options interface to select cases to join.
+- 🌐 Compatibility with the **Key-Drop.com** website.
 
-## 📂 Structure du Projet
+## 📂 Project Structure
 
 ```
 KeyWins/
-├── manifest.json         # Déclaration de l'extension
-├── options.html          # Page des paramètres utilisateur
-├── optionstyle.css       # Styles pour la page d'options
-├── popup.html            # Interface principale de l'extension
-├── popup.js              # Scripts de la popup
-├── style.css             # Styles de la popup
-├── settings.js           # Gestion des paramètres
+├── manifest.json         # Extension declaration
+├── options.html          # User settings page
+├── optionstyle.css       # Styles for the options page
+├── popup.html            # Main extension interface
+├── popup.js              # Popup scripts
+├── style.css             # Popup styles
+├── settings.js           # Settings management
 ```
 
 ## 🚀 Installation
 
-1. Clonez ce repository ou téléchargez les fichiers.
-2. Ouvrez **Google Chrome** ou un navigateur compatible.
-3. Accédez à `chrome://extensions/`.
-4. Activez le **Mode développeur**.
-5. Cliquez sur **Charger l'extension non empaquetée** et sélectionnez le dossier contenant les fichiers du projet.
-6. L'extension **KeyWins** apparaîtra dans votre barre d'outils.
+1. Clone this repository or download the files.
+2. Open **Google Chrome** or a compatible browser.
+3. Go to `chrome://extensions/`.
+4. Enable **Developer Mode**.
+5. Click **Load unpacked extension** and select the folder containing the project files.
+6. The **KeyWins** extension will appear in your toolbar.
 
-## 🔧 Utilisation
+## 🔧 Usage
 
-1. Cliquez sur l'icône de l'extension pour ouvrir la popup.
-2. Utilisez le bouton **Rejoindre** pour activer l'automatisation.
-3. Configurez vos préférences dans la section **Options**.
+1. Click the extension icon to open the popup.
+2. Use the **Join** button to activate automation.
+3. Configure your preferences in the **Options** section.
 
-## 🛠️ Prérequis
+## 🛠️ Prerequisites
 
-- Navigateur compatible avec les extensions (Chrome, Edge).
-- Connexion Internet stable.
+- A browser compatible with extensions (Chrome, Edge).
+- A stable Internet connection.
 
-## 📜 Licence
+## 📜 License
 
-Ce projet est sous licence MIT. Vous êtes libre de le modifier et de le redistribuer.
+This project is licensed under the MIT license. You are free to modify and redistribute it.
